@@ -1,0 +1,32 @@
+body{padding: 5em;
+    font-family: 'Montserrat', sans-serif;
+background-color: #000000;
+padding: 0px 80px 30px 80px;
+}
+
+.title {
+    display: block;
+    margin: 0 auto;
+    padding: 10px 0px 0px;
+}
+
+h2{
+    margin-block-start: 0px;
+    margin-block-end: 20px;
+    text-align: center;
+    font-weight: 700;
+    font-style: italic;
+    color: white;
+    /*border: 1px white solid;*/
+    }
+
+img
+{padding: 0px 20px 20px 20px;
+display: inline-flexbox;
+position: relative;
+}
+
+
+.credits{font-size: 0.5em;
+    color: rgb(197, 197, 197);
+padding-bottom: 0px;}
